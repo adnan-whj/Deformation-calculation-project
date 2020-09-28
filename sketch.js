@@ -18,7 +18,7 @@ function setup() {
 function draw() {
   background("orange");  
   car.velocityX=speed;
-  text("Test by GSCO ( Global Car Safety Organisation)",700,370);
+  text("Test by GSCO ( Global Car Safety Organisation)",600,370);
   textSize(30);
   stroke("black");
   text("CAR DEFORMATION TEST",230,50);
